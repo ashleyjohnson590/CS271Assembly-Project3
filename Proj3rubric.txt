@@ -1,0 +1,193 @@
+Project 3 Rubric
+Criteria	Ratings	Pts
+Preliminaries - File Correctly Submitted
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Preliminaries - Program Assembles & Links
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Documentation - Identification Block - Header
+1 pts
+Full Marks
+0 pts
+Missing Info
+Header block is not present, or is missing required information.
+1 / 1 pts
+Documentation - Identification Block - Program Description
+2 pts
+Full Marks
+1 pts
+Lacking Detail
+Description is present but is lacking in detail with regard to functionality.
+0 pts
+No Marks
+2 / 2 pts
+Documentation - Section Comments
+4 pts
+Full Marks
+0 pts
+No Marks
+Comments
+Section comments are not descriptive enough.
+2 / 4 pts
+Documentation - In-line Comments
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Verification - Program Executes
+2 pts
+Full Marks
+1 pts
+Failed Attempt
+Program is an attempt at the correct assignment but simply does not run.
+0 pts
+Not An Attempt
+Program executes but is either the incorrect program or some quickly mashed together nonsense, submitted only to 'get a few points'
+2 / 2 pts
+Completeness - Displays Title and Programmer Name
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Displays Introduction
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Gets / Uses User's Name
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Prompts (with bounds) and Receives User Input
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Validates User Data
+5 pts
+Full Marks
+2.5 pts
+Partial
+Middle values aren't rejected or neglects to check edge cases.
+0 pts
+No Marks
+5 / 5 pts
+Completeness - Notifies User of Invalid Data
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Completeness - displays results or "no numbers" message
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Completeness - Displays Closing Message
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Correctness - Counts numbers correctly
+3 pts
+Full Marks
+0 pts
+No Marks
+3 / 3 pts
+Correctness - Detects lack of negative FLAG value
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Correctness - Stops loop when no negative FLAG
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Correctness - Accumulates sum correctly
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Correctness - Calculates and Rounds average correctly
+2 pts
+Full Marks
+1 pts
+Rounding Issue
+Calculation is off by 1 due to rounding
+0 pts
+No Marks
+2 / 2 pts
+Correctness - Calculates and Prints Min and Max Correctly
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Requirements - Range boundaries are defined constants.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Requirements - Program is well-modularized
+4 pts
+Full Marks
+2 pts
+Blocks without Headers
+Program is separated into logical blocks but those blocks are poorly commented.
+2 pts
+Headers without Blocks
+Program is not visibly separated into logical blocks with whitespace, but limited headers do indicate some organizational effort.
+0 pts
+No Marks
+4 / 4 pts
+Coding Style - Uses appropriately named identifiers
+2 pts
+Full Marks
+1 pts
+Partial
+Some identifiers are named well, with others having no relevance to their functionality.
+0 pts
+No Marks
+2 / 2 pts
+Coding Style - Readability
+2 pts
+Full Marks
+1 pts
+Marginally Readable
+Program is marginally readable but lacks proper alignment and white space.
+0 pts
+No Marks
+2 / 2 pts
+Extra Credit
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Late Penalty
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Total Points: 48
